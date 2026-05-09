@@ -917,35 +917,35 @@ footer a {
 }
 
 #tour-bg {
-  background-image: url("/images/tourbg.png");
+  background-image: url("../images/tourbg.png");
 }
 
 #accommodation-bg {
-  background-image: url("/images/accommodationbg.png");
+  background-image: url("../images/accommodationbg.png");
   background-position: center 130%;
 }
 
 #dining-bg {
-  background-image: url("/images/diningbg.png");
+  background-image: url("../images/diningbg.png");
   background-position: center 130%;
 }
 
 #events-bg {
-  background-image: url("/images/eventsbg.png");
+  background-image: url("../images/eventsbg.png");
   background-position: center 130%;
 }
 
 #culture-bg {
-  background-image: url("/images/culturebg.png");
+  background-image: url("../images/culturebg.png");
   background-position: center 130%;
 }
 
 #getting-here-bg {
-  background-image: url("/images/getting-herebg.png");
+  background-image: url("../images/getting-herebg.png");
   background-position: center 190%;
 }
 
 #tips-bg {
-  background-image: url("/images/tipsbg.png");
+  background-image: url("../images/tipsbg.png");
   background-position: center 300%;
 }
