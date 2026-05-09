@@ -383,7 +383,7 @@ ul {
    ABOUT SECTION (Gray background box)
    ============================================ */
 #attraction-bg {
-  background-image: url("/images/attractionbg.png");
+  background-image: url("../images/herobanner.jpg");
   background-size: cover;
   background-position: bottom;
   background-attachment: fixed;
